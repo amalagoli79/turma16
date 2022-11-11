@@ -1,0 +1,11 @@
+
+
+
+Usar/Enviar os dados do formulário (objeto) para uma Api(ativa)
+
+Criar uma Api para Testes (Api Json Server)
+
+Dentro do Angular
+	Criar serviço (criar uma classe) de/para Login
+	Implementar/Utilizar na função Login
+
