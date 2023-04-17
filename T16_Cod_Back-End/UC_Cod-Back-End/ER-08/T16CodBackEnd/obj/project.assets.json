@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\senaisp\\Desktop\\Aulas\\16-03-23\\Turma16-PFS\\T16CodBackEnd\\T16CodBackEnd.csproj",
+      "projectUniqueName": "C:\\Users\\senaisp\\Desktop\\Aulas\\000-Doc-Turmas\\GitHub-Turmas\\Turma16\\Github\\turma16\\T16_Cod_Back-End\\ER-08\\T16CodBackEnd\\T16CodBackEnd.csproj",
       "projectName": "T16CodBackEnd",
-      "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\16-03-23\\Turma16-PFS\\T16CodBackEnd\\T16CodBackEnd.csproj",
+      "projectPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\000-Doc-Turmas\\GitHub-Turmas\\Turma16\\Github\\turma16\\T16_Cod_Back-End\\ER-08\\T16CodBackEnd\\T16CodBackEnd.csproj",
       "packagesPath": "C:\\Users\\senaisp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\16-03-23\\Turma16-PFS\\T16CodBackEnd\\obj\\",
+      "outputPath": "C:\\Users\\senaisp\\Desktop\\Aulas\\000-Doc-Turmas\\GitHub-Turmas\\Turma16\\Github\\turma16\\T16_Cod_Back-End\\ER-08\\T16CodBackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\senaisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
